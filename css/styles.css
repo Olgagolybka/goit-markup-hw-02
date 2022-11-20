@@ -123,7 +123,7 @@ color: #FFFFFF;
 }
 
 
-/* Section */
+/* Sections */
 
 .features .features-title{
     color: var(--title-text-color);
@@ -195,13 +195,3 @@ line-height: 1.88;
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
 }
-
-
-/*  Палітра кольорів */
-
-/*  колір h1,h2...: #212121*/
-/* колір p: #757575 */
-/* color background: #2F303A; #F5F5F5; #F5F4FA; */
-/*  колір при :hover: #2196F3*/
-/* білий колір: #FFFFFF */
-/* білий колір footer: rgba(0, 0, 0, 0.2)  */
