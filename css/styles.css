@@ -7,8 +7,8 @@
 .body{
     color: var(--primary-text-color);
     background-color:#F5F5F5 ;
+    
     font-family: 'Roboto', sans-serif ;
-    font-weight: 400;
     font-size: 14px;
 line-height: 1.7;
     letter-spacing: 0.03em;
@@ -68,7 +68,11 @@ color: var(--primary-text-color)
 .site-nav .link:hover,
 .site-nav .link:focus,
 .auth-nav .link:hover,
-.auth-nav .link:focus{
+.auth-nav .link:focus,
+.footer-nav .footer-adress:hover,
+.footer-nav .footer-adress:focus,
+.footer-nav .footer-contact:hover,
+.footer-nav .footer-contact:focus{
 color: var(--accent-color);
 }
 
@@ -115,6 +119,7 @@ color: #FFFFFF;
     line-height: 1.62;
     text-align: center;
     letter-spacing: inherit;
+    cursor: pointer;
 }
 
 
@@ -190,7 +195,6 @@ line-height: 1.88;
     color: rgba(255, 255, 255, 0.6);
     text-decoration: none;
 }
-
 
 
 /*  Палітра кольорів */
